@@ -13,8 +13,8 @@ The second deliverable involved adding the above information to a Mongo database
 ## Deliverable 3: Add Bootstrap 3 Components
 The third deliverable involved adding Bootstrap styling to various aspects of the web application. The style elements adjusted include:
 
-`button color changed
-`hemisphere images at bottom made responsive;
-`"Mars Facts" title size change and centered in column
+* button color changed
+* hemisphere images at bottom made responsive;
+*"Mars Facts" title size change and centered in column
 
 The updated page can be seen here:
