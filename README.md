@@ -15,6 +15,6 @@ The third deliverable involved adding Bootstrap styling to various aspects of th
 
 * button color changed
 * hemisphere images at bottom made responsive;
-*"Mars Facts" title size change and centered in column
+* "Mars Facts" title size change and centered in column
 
 The updated page can be seen here:
