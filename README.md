@@ -11,7 +11,7 @@ The first deliverable involved scraping full-resolution images and titles from t
 ## Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
 The second deliverable involved adding the above information to a Mongo database and displaying that on a web application. The images and titles were populated at the bottom of the page seen here:
 
-![Mod 10 site after deliv 2](https://user-images.githubusercontent.com/100863488/167629474-a332be4f-c670-4c48-ab3f-9d85ff4944d2.png)
+![Mod 10 site after deliv 2](https://user-images.githubusercontent.com/100863488/167631441-98d10f98-12ef-47ec-91c5-205c61eee831.png)
 
 
   
