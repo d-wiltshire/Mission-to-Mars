@@ -3,7 +3,7 @@
 The purpose of this project was to create a web app that scrapes web data regarding the planet Mars and populates the information onto a new webpage. For this challenge, BeautifulSoup and Splinter (in Jupyter Notebook with Python) were used to scrape full-resolution images of Mars’ hemispheres and the titles of those images, and the scraped data was stored on a Mongo database. Flask and Bootstrap were then used to create a web application to display the data in an attractive and responsive format.
 
 ## Deliverable 1: Scrape High-Resolution Mars Hemisphere Images and Titles
-The first deliverable involved scraping full-resolution images and titles from the page https://marshemispheres.com/ and adding these to a Python dictionary. 
+The first deliverable involved scraping full-resolution images and titles from the page https://marshemispheres.com/ and adding these to Python dictionaries. 
 
 ![mod10 printout of dictionaries](https://user-images.githubusercontent.com/100863488/167629330-5c1e6a81-5b91-4723-8b8b-896b11073893.png)
 
